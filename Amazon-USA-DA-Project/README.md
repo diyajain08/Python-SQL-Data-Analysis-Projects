@@ -14,8 +14,7 @@ An ERD(Entity-Relatitionship Diagram) diagram is included to visually represent 
 ---
 ## **Database Setup & Design**
 
-### **Schema Structure**
-
+### **Schema Structure** 
 ```sql
 CREATE TABLE category
 (
